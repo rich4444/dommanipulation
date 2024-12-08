@@ -1,0 +1,9 @@
+.section{
+    width: 100%;
+    background-color: red;
+    min-height: 50px;
+}
+
+.section:nth-of-type(odd){
+    background-color: blue;
+}
